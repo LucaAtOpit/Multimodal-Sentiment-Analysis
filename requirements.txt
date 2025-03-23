@@ -1,0 +1,14 @@
+requests
+numpy
+pathlib
+pandas
+seaborn
+matplotlib
+scikit-learn
+Pillow
+torch
+torchvision
+transformers
+datasets
+evaluate
+joblib
